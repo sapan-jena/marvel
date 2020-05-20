@@ -1,0 +1,1 @@
+$("li").prepend("<i class=\"icon-chevron-right\"></i>");
